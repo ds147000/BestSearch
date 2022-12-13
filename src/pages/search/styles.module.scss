@@ -1,0 +1,16 @@
+.list {
+    max-width: 1000px;
+    width: 80vw;
+    margin: 0 auto;
+
+    >h2 {
+        font-weight: 400;
+        padding-left: 16px;
+        font-size: 24px;
+    }
+}
+
+.floor {
+    text-align: center;
+    flex: 1;
+}
